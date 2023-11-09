@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\GitRepo\personal-projects\Calculator\Calculator\MyForm.cpp(6,35): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\GitRepo\personal-projects\Calculator\Calculator\MyForm.cpp(7,16): warning C4551: function call missing argument list
+C:\GitRepo\personal-projects\Calculator\Calculator\MyForm.cpp(8,16): warning C4551: function call missing argument list
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> C:\GitRepo\personal-projects\Calculator\x64\Debug\Calculator.exe

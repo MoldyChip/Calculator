@@ -1,0 +1,3 @@
+C:\GitRepo\personal-projects\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\GitRepo\personal-projects\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\GitRepo\personal-projects\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
